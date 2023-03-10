@@ -1,0 +1,9 @@
+{
+	"terminal.integrated.scrollback": 10000,
+	"files.associations": {
+		"algorithm": "c",
+		"pipex.h": "c",
+		"type_traits": "c",
+		"*.tcc": "c"
+	}
+}
